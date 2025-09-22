@@ -27,7 +27,7 @@ Chess playing agent
 
 ```
 
-### VacuumCleanerAgent
+### Chess playing agent
 ### Algorithm:
 Step 1: Initialize:
 
